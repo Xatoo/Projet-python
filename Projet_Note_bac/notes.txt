@@ -1,0 +1,10 @@
+Histoire,15,3
+Enseignement scientifique,18,2.5
+Anglais,15,3
+Espagnol,9,3
+EPS,16,5
+EMC,14,1
+Spe Math,15,16
+Spe NSI,16,16
+Philosophie,11,8
+Grand Oral,10,10
